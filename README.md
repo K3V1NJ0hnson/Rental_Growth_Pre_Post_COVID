@@ -1,3 +1,4 @@
+
 ## Data Science Capstone Project – Rental Growth Analysis
 
 This capstone project was part of my undergraduate Data Science degree at Arizona State University. My focus was on identifying the **key factors driving rental price growth in U.S. cities before and after the COVID-19 pandemic**.
@@ -28,3 +29,7 @@ This capstone project was part of my undergraduate Data Science degree at Arizon
 
 ## Project Status
 **Completed June 2025**
+=======
+# Rental_Growth_Pre_Post_COVID
+Capstone project to understand what factors contributed to pre and post COVID rental growth in certain markets
+>>>>>>> 5984aecef830dc377c4155d667fcbfc5b41fe6ce
